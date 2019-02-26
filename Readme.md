@@ -1,8 +1,5 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
-* Студент: [Anton Mayacky](https://up.htmlacademy.ru/ecmascript/4/user/152468).
-* Наставник: [Саша Ивашкин](https://htmlacademy.ru/profile/id7280).
-
 ---
 
 _Не удаляйте и не изменяйте папки и файлы:_
